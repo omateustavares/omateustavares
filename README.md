@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mateustm17@gmail.com**
 
-- ⚡ Fun fact **I blue_heart video_game**
+- ⚡ Fun fact **I 💙 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
