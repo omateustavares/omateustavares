@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateus</h1>
 
-- 🔭 I’m currently working at **@Sabion Digital**
+- 🔭 I’m currently working at **@sabiondigital**
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, React Native, NodeJS**
 
